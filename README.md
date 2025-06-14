@@ -15,7 +15,7 @@ Planned integration with AWS (EC2 or ECS) and enhanced SOC-style alert tuning to
 
 ### 🔍 MegaCorpOne Penetration Test  
 A structured end-to-end penetration test of a fictional enterprise. Includes recon, exploitation (vsFTPd backdoor), credential harvesting, and root escalation. Reflects offensive security skills and MITRE-based attack methodology.  
-[🔗 View Project](https://github.com/your-username/megacorpone-penetration-test)
+[🔗 View Project](https://github.com/dreighton90/megacorpone-penetration-test.git)
 
 ### 🛠️ Windows GPO & PowerShell Logging  
 Configured advanced logging policies via GPO to capture PowerShell activity and harden authentication settings. Reinforces endpoint security and Windows domain visibility.  
