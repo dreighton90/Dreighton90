@@ -1,4 +1,4 @@
-# 🛡️ AJ Drayton – Cybersecurity Portfolio
+# 🛡️ Anthony Dreighton – Cybersecurity Portfolio
 
 **Aspiring security professional with a strong Purple Team mindset, blending offensive and defensive projects that demonstrate real-world relevance and initiative beyond the classroom.**
 
@@ -8,7 +8,7 @@
 
 ### 📊 SIEM + Wazuh Monitoring Lab (Post-Bootcamp)  
 My first self-driven project after completing cybersecurity training. Deployed Wazuh on Docker to centralize log collection, create security alerts, and analyze system activity in real time. Demonstrates cloud readiness and Blue Team capabilities.  
-[🔗 View Project](https://github.com/your-username/siem-log-monitoring-lab)
+[🔗 View Project](https://github.com/dreighton90/wazuh_siem_lab.git)
 
 **Future Expansion:**  
 Planned integration with AWS (EC2 or ECS) and enhanced SOC-style alert tuning to simulate real-world detection workflows.
