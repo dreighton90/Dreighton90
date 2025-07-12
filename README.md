@@ -10,9 +10,6 @@ Aspiring security professional with a strong Purple Team mindset, blending offen
 My first self-driven project after completing cybersecurity training. Deployed Wazuh on Docker to centralize log collection, create security alerts, and analyze system activity in real time. Demonstrates cloud readiness and Blue Team capabilities.  
 [🔗 View Project](https://github.com/dreighton90/wazuh_siem_lab.git)
 
-☁️Future Expansion:
-Planned integration with AWS (EC2 or ECS) and enhanced SOC-style alert tuning to simulate real-world detection workflows.
-
 🔍 MegaCorpOne Penetration Test  
 A structured end-to-end penetration test of a fictional enterprise. Includes recon, exploitation (vsFTPd backdoor), credential harvesting, and root escalation. Reflects offensive security skills and MITRE-based attack methodology.  
 [🔗 View Project](https://github.com/dreighton90/megacorpone-penetration-test.git)
