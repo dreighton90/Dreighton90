@@ -19,21 +19,21 @@ Hi, I’m Anthony — a Cloud Security & SOC Analyst building secure, scalable e
 
 📂 Featured Projects
 
+⚠️ **Cloud Incident Response + IAM Lockdown**  
+Engineered a real-time detection and response system in AWS using EventBridge, Lambda, CloudTrail, and IAM. Designed automated remediation policies to restrict access based on suspicious events. Includes Terraform automation and alert escalation logic. Highlights incident response readiness in cloud environments.  
+🔗 [View Project](https://github.com/dreighton90/Cloud-Incident-Response-and-IAM-Lockdown)
+
+🛡️ **Cloud Security Alerting System (AWS + PostgreSQL)**  
+Built a full-stack detection and alerting pipeline using Terraform, AWS RDS, and PostgreSQL. Ingested EC2 activity logs, mapped user roles, and generated alerts for suspicious behavior. Demonstrates knowledge of SQL-based threat detection, IAM attribution, and cloud-native alerting workflows.  
+🔗 [View Project](https://github.com/dreighton90/Cloud-Security-Alerting-System-AWS-PostgreSQL)
+
 📊 SIEM + Wazuh Monitoring Lab (Post-Bootcamp)  
 My first self-driven project after completing cybersecurity training. Deployed Wazuh on Docker to centralize log collection, create security alerts, and analyze system activity in real time. Demonstrates cloud readiness and Blue Team capabilities.  
 [🔗 View Project](https://github.com/dreighton90/wazuh_siem_lab.git)
-
-🔍 MegaCorpOne Penetration Test  
-A structured end-to-end penetration test of a fictional enterprise. Includes recon, exploitation (vsFTPd backdoor), credential harvesting, and root escalation. Reflects offensive security skills and MITRE-based attack methodology.  
-[🔗 View Project](https://github.com/dreighton90/megacorpone-penetration-test.git)
-
-🛠️ Windows GPO & PowerShell Logging  
-Configured advanced logging policies via GPO to capture PowerShell activity and harden authentication settings. Reinforces endpoint security and Windows domain visibility.  
-[🔗 View Project](https://github.com/dreighton90/windows-gpo-logging.git)
 
 ---
 
 📜 Certifications
 
-- CompTIA Security+ (SY0-701)— Earned June 2025  
-- Cybersecurity Bootcamp Graduate — UNC-Chapel Hill, Completed August 2024
+- CompTIA Security+ (Active 2025-2028)
+- AWS Cloud Practitioner(In Progress)
