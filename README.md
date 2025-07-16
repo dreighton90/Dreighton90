@@ -1,7 +1,20 @@
-🛡️ Anthony Dreighton – Cybersecurity Portfolio
+👨🏾‍💻 About Me :
 
-Aspiring security professional with a strong Purple Team mindset, blending offensive and defensive projects that demonstrate real-world relevance and initiative beyond the classroom.
+Hi, I’m Anthony — a Cloud Security & SOC Analyst building secure, scalable environments across cloud and hybrid systems. This GitHub showcases my hands-on projects as I expand my skills in AWS, detection engineering, incident response, and infrastructure-as-code.
 
+---
+
+- ☁️ **Skilled in building AWS labs** using EC2, RDS PostgreSQL, CloudWatch, and Terraform to monitor user activity, detect threats, and trigger automated alerts in real time.
+
+- 🔒 **Experienced in log analysis, alert correlation, and IAM security**, using tools like Wazuh, EventBridge, and SQL to identify suspicious behavior and support SOC investigations.
+
+- 🛠️ **Automating cloud workflows** with Terraform and scripting to streamline monitoring, alert escalation, and response actions across cloud and on-prem environments.
+
+- 🧠 **Always learning by doing**, with active lab projects focused on cloud incident response, security logging pipelines, GPO enforcement, PowerShell auditing, and threat emulation.
+
+---
+
+🚀 Explore my repositories to see real-world cybersecurity projects and cloud security labs — each designed to mirror the tasks, responsibilities, and workflows expected in security operations teams.
 ---
 
 📂 Featured Projects
