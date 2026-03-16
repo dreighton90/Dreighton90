@@ -43,6 +43,13 @@ Configured Group Policy Objects and PowerShell script block/module logging acros
 
 ## 📜 Certifications
 
+## 📜 Certifications
+
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/eb67606d-c1cd-47c1-839d-f1c100b16def/public_url)
+
+- **CompTIA Security+** — Active 2025–2028
+- **AWS SAA-C03** — In Progress
+
 - **CompTIA Security+** — Active 2025–2028
 - **AWS SAA-C03** — In Progress
 
